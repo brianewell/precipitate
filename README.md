@@ -1,4 +1,4 @@
-# Precipitate
+# Precipitate ![hex.pm version](https://img.shields.io/hexpm/v/precipitate) ![hex.pm license](https://img.shields.io/hexpm/l/precipitate) ![cirleci build](https://img.shields.io/circleci/build/github/brianewell/precipitate) ![hex.pm downloads](https://img.shields.io/hexpm/dt/precipitate)
 
 An agentless timeseries ingestion framework.
 
